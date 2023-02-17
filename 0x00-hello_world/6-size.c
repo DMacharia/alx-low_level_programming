@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
-a C program that prints the size of various types using sizeof()function
-Your program should return 0(success)
+*a C program that prints the size of various types using sizeof()function
+*Your program should return 0(success)
 */
 int main(void)
 {
